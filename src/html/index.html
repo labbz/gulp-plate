@@ -61,7 +61,7 @@
         <div class="typography">
           <ul>
             {% for item in items %}
-              <li><a class="u-td-underline" href="{{ item.link }}">{{ item.title }}</a></li>
+              <li><a class="u-td-underline" href="{{ item.link }}">{{ item.title | safe }}</a></li>
             {% endfor %}
           </ul>
         </div>
