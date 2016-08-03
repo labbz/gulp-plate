@@ -1,6 +1,10 @@
 <footer>
-  <div class="l-container u-padd-top-double u-padd-btm u-fz-sm u-ff-sans">
-    <p class="u-push-btm-none">{{ company.name }}</p>
+  <div class="l-container u-padd-top-double u-padd-btm u-fz-sm u-ff-sans u-fw-regular">
+    <p class="u-push-btm-none">
+      <a href="{{ company.link }}" class="u-td-underline">
+        {{ company.name }}
+      </a>
+    </p>
     <p class="u-push-btm-none">{{ company.address }}</p>
     <p class="u-push-btm-none">{{ company.vat }}</p>
     <p class="u-push-btm-none">{{ company.mail }}</p>
