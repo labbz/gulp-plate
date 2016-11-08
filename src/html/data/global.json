@@ -29,7 +29,7 @@
     "it": "L’iniziativa “Città nostra” si trasforma e si dà una nuova veste in lab:bz"
   },
   "description": {
-    "de": "Die Gemeinde Bozen und das <strong>Stadtlabor lab:bz</strong> laden ein zum lab:cafe - Matteottiplatz zwischen Twenty und Lauben- Wir gestalten gemeinsam die Zukunft unserer Stadt und beginnen nun, uns Gedanken zur Gestaltung des Viertels um den Matteottiplatz zu machen. Steuere Deine Ideen bei und erweitere das Netzwerk für Stadtentwicklung, denn nur gemeinsam können wir eine <strong>offene, gesunde und schöne Stadt gestalten</strong>. Komme zum <strong>lab:cafe am 9.11.2016</strong>, Aula Magna Liceo Torricelli, Rovigo str. 42, Bozen. Mehr dazu im <a href=\"https://www.facebook.com/events/210533069374129/\">Facebook Event</a>.",
+    "de": "Die Gemeinde Bozen und das <strong>Stadtlabor lab:bz</strong> laden ein zum <strong>lab:cafe - Matteottiplatz zwischen Twenty und Lauben</strong>- Wir gestalten gemeinsam die Zukunft unserer Stadt und beginnen nun, uns Gedanken zur Gestaltung des Viertels um den Matteottiplatz zu machen. Steuere Deine Ideen bei und erweitere das Netzwerk für Stadtentwicklung, denn nur gemeinsam können wir eine <strong>offene, gesunde und schöne Stadt gestalten</strong>. Komme zum <strong>lab:cafe am 9.11.2016</strong>, Aula Magna Liceo Torricelli, Rovigo str. 42, Bozen. Mehr dazu im <a href=\"https://www.facebook.com/events/210533069374129/\">Facebook Event</a>.",
     "it": "Il Comune di Bolzano e il <strong>laboratorio urbano lab:bz</strong> invitano al <strong>lab:café -piazza Matteotti tra Twenty e portici</strong> - Creiamo insieme il futuro della nostra città ed incominciamo ora a ripensare il quartiere intorno a Piazza Matteotti. Apporta le tue idee, solo insieme possiamo creare una città aperta, bella e sana. Ti aspettiamo <strong>mercoledì, 9.11.2016 al lab:cafe</strong> a Bolzano, Aula Magna Liceo Torricelli via Rovigo, 42. Più informazioni nell'<a href=\"https://www.facebook.com/events/210533069374129/\">Evento Facebook</a>."
   },
   "link": {
@@ -49,12 +49,12 @@
 
    "link": {
     "de": {
-      "title": "Kurz-Protokoll (PDF) >",
-      "url": "http://www.labbz.it/downloads/labBZ_Protokoll_1.Treffen.pdf"
+      "title": "Einladung (PDF) >",
+      "url": "http://www.labbz.it/downloads/Einladung-Invito-lab-cafe_nov2016_DE-IT_v5_print.pdf"
     },
     "it": {
-      "title": "Verbale breve (PDF) >",
-      "url": "http://www.labbz.it/downloads/labBZ_verbale_1°incontro.pdf"
+      "title": "Invito (PDF) >",
+      "url": "http://www.labbz.it/downloads/Einladung-Invito-lab-cafe_nov2016_DE-IT_v5_print.pdf"
     }
   },
 
@@ -81,6 +81,14 @@
     {
       "title": "lab:bz @ facebook",
       "link": "https://www.facebook.com/Lab-BZ-570889893069823/"
+    },
+    {
+      "title": "Kurz-Protokoll 1.Treffen Juli 2016(PDF) >",
+      "url": "http://www.labbz.it/downloads/labBZ_Protokoll_1.Treffen.pdf"
+    },
+    {
+      "title": "Verbale breve 1°incontro luglio 2016 (PDF) >",
+      "url": "http://www.labbz.it/downloads/labBZ_verbale_1°incontro.pdf"
     }
   ],
 
